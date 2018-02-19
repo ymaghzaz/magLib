@@ -1,0 +1,28 @@
+{
+  "name": "maglib",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ysfmag/magLib"
+  },
+  "author": {
+    "name": "youssef",
+    "email": "youssefmaghzaz@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysfmag/magLib/issues"
+  },
+  "main": "maglib.umd.js",
+  "module": "maglib.js",
+  "jsnext:main": "maglib.js",
+  "typings": "maglib.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
